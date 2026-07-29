@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- Document assembling: back sheet, rows sliding into place, one apricot row mid-flight -->
+
+  <!-- Backing shape, slightly larger than the front sheet on all sides so the
+       front sheet always has a visible silhouette on parchment (no strokes allowed) -->
+  <rect x="34" y="10" width="112" height="144" rx="16" fill="#2C6B5F" />
+
+  <!-- Front document -->
+  <rect x="42" y="18" width="96" height="128" rx="14" fill="#7FA396" />
+
+  <!-- Settled rows -->
+  <rect x="58" y="76" width="64" height="14" rx="7" fill="#F6F1E7" />
+  <rect x="58" y="102" width="64" height="14" rx="7" fill="#123F3A" />
+
+  <!-- Row mid-flight, sliding into place -->
+  <rect x="72" y="42" width="64" height="14" rx="7" fill="#F0A886" transform="rotate(-6 104 49)" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <!-- Sprout with two apricot leaves growing from a sage pot (parchment panel: cream/parchment fills are not usable here) -->
+  <path d="M75 40 a5 5 0 0 1 5 5 c0 8 4 20 0 47 a5 5 0 0 1 -5 5 a5 5 0 0 1 -5 -5 c-4 -27 0 -39 0 -47 a5 5 0 0 1 5 -5 z" fill="#2C6B5F" />
+  <path d="M80 60 C56 56 44 34 48 14 C70 16 84 34 80 60 Z" fill="#F0A886" />
+  <path d="M80 76 C104 70 118 48 116 26 C92 26 76 46 80 76 Z" fill="#F0A886" />
+  <path d="M40 92 h80 l-8 46 a14 14 0 0 1 -14 12 h-36 a14 14 0 0 1 -14 -12 z" fill="#7FA396" />
+  <rect x="34" y="86" width="92" height="16" rx="8" fill="#2C6B5F" />
+</svg>

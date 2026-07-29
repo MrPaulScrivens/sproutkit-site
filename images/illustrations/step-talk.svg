@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Speech bubble overlapping a heart -->
+  <path d="M4 6 h40 a8 8 0 0 1 8 8 v18 a8 8 0 0 1 -8 8 h-8 l-10 10 v-10 h-22 a8 8 0 0 1 -8 -8 v-18 a8 8 0 0 1 8 -8 z" fill="#123F3A" />
+  <path d="M34 20 c-4 0 -7 3 -7 7 c0 6 7 10 11 13 c4 -3 11 -7 11 -13 c0 -4 -3 -7 -7 -7 c-2 0 -3.5 1 -4 2.5 c-0.5 -1.5 -2 -2.5 -4 -2.5 z" fill="#F6F1E7" />
+</svg>

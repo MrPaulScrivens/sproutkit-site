@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Document with a bold checkmark badge on its corner -->
+  <rect x="10" y="6" width="36" height="52" rx="8" fill="#F6F1E7" />
+  <rect x="18" y="18" width="20" height="6" rx="3" fill="#2C6B5F" />
+  <rect x="18" y="30" width="20" height="6" rx="3" fill="#123F3A" />
+  <rect x="18" y="42" width="14" height="6" rx="3" fill="#2C6B5F" />
+  <circle cx="44" cy="44" r="16" fill="#123F3A" />
+  <path d="M36.5 43.8 L40.8 48.1 L40.8 48.1 L52.4 36.5 L55.2 39.3 L42 52.5 L38 52.5 L33.7 48.2 Z" fill="#F0A886" />
+</svg>
